@@ -1,0 +1,1 @@
+sublime edit - program do edycji (synchronizacji) napisów w srt,do filmów 
